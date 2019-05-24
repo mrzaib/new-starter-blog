@@ -12,6 +12,7 @@ sections:
   new_doc_ext: md
   templates:
   - post
+  - post
 - type: directory
   path: content
   label: Pages
